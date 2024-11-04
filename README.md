@@ -34,6 +34,10 @@ PyTorch, torchvision, matplotlib, seaborn, pandas, numpy, Pillow
 
 ## Sample Visualizations
 
+Models comparison
+
+![project model comparison](https://github.com/user-attachments/assets/1120ec74-7213-44cc-964a-fa44f34ba5db)
+
 ## License
 This project is licensed under the MIT License.
 
