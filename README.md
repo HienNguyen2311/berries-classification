@@ -27,6 +27,7 @@ The dataset contains 4500 images of fruits:
 * 1500 cherry images
 * 1500 strawberry images
 * 1500 tomato images
+
 Images are split 80/20 into training and test sets.
 
 ## Technologies Used
