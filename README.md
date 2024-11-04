@@ -20,7 +20,7 @@ pip install torch torchvision matplotlib seaborn pandas numpy pillow
 ```
 
 ## Usage
-Run the Jupyter notebook
+Run the Jupyter notebook `capstone_project.ipynb`
 
 ## Data
 The dataset contains 4500 images of fruits:
